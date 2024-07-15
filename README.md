@@ -22,6 +22,9 @@
 <p><strong>Clave:</strong>admin1234</p>
 <p>Administrators are able to change their own data or other user's role, they can also have access to charts and every user's basic information</p>
 
+### Deploy 👓
+<a href='https://dashboard-usuarios.netlify.app/'>User's dashboard</a>
+
 ## Created by ✒️
 * **Laura González Martin**
 
