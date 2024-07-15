@@ -19,7 +19,7 @@
 
 ### Administrator user 🧑🏻
 <p><strong>User:</strong>admin@admin.com</p>
-<p><strong>Clave:</strong>admin1234</p>
+<p><strong>Password:</strong>admin1234</p>
 <p>Administrators are able to change their own data or other user's role, they can also have access to charts and every user's basic information</p>
 
 ### Deploy 👓

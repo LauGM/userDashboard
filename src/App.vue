@@ -39,6 +39,9 @@ const vCursor = {
   <main>
     <RouterView />
   </main>
+  <footer>
+    <p>Laura González Martin - 2024</p>
+  </footer>
 </template>
 
 <style scoped>
@@ -83,6 +86,17 @@ nav {
   cursor: url('/home-1-svgrepo.svg'), auto;
 }
 
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 5px 0;
+  color: black;
+}
+
 @media screen and (max-width:767px) {
   .topContainer {
     display: flex;
@@ -92,7 +106,7 @@ nav {
     gap: 50px;
   }
 
-  .upperButton{
+  .upperButton {
     margin-right: 25px;
   }
 }
