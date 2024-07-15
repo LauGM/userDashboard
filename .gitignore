@@ -1,6 +1,7 @@
 node_modules
 # Ignorar todos los archivos .env
-*.env
+.env.production
+.env.local
 
 # Ignorar la carpeta dist
 /dist/
